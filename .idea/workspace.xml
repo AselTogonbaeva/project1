@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="838c1e21-ceb4-4c3d-bdec-fb594a5fa43a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UbHCSK4BNVgQLlH15931TpJ5WN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.16.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.16.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Asel IT/Attractor/homework/shop-front&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Asel IT\\Attractor\\homework\\project1\\front\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Asel IT\Attractor\homework\project1\front\src\components\UI" />
+      <recent name="C:\Asel IT\Attractor\homework\project1\front\src" />
+      <recent name="C:\Asel IT\Attractor\homework\project1\back" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Asel IT\Attractor\homework\project1\front\src\pages\Products" />
+      <recent name="C:\Asel IT\Attractor\homework\project1\front\src\store" />
+      <recent name="C:\Asel IT\Attractor\homework\project1\front\src\components\UI\FileInput" />
+      <recent name="C:\Asel IT\Attractor\homework\project1\front\src\components\UI\AppToolbar\Layout" />
+      <recent name="C:\Asel IT\Attractor\homework\project1\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="838c1e21-ceb4-4c3d-bdec-fb594a5fa43a" name="Changes" comment="" />
+      <created>1693201319260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693201319260</updated>
+      <workItem from="1693201362223" duration="54780000" />
+      <workItem from="1693968918762" duration="200000" />
+      <workItem from="1694054303482" duration="8785000" />
+      <workItem from="1694078309290" duration="118643000" />
+      <workItem from="1695093139700" duration="24496000" />
+      <workItem from="1695178690456" duration="21027000" />
+      <workItem from="1695266545524" duration="121730000" />
+      <workItem from="1695909728805" duration="70796000" />
+      <workItem from="1696485249372" duration="3557000" />
+      <workItem from="1696776917487" duration="344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/front/src/components/UI/AppToolbar/Menu/UserMenu.tsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
